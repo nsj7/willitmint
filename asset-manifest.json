@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/willitmint/static/css/main.f87e72eb.chunk.css",
+    "main.js": "/willitmint/static/js/main.ea381a11.chunk.js",
+    "main.js.map": "/willitmint/static/js/main.ea381a11.chunk.js.map",
+    "runtime-main.js": "/willitmint/static/js/runtime-main.a8835caa.js",
+    "runtime-main.js.map": "/willitmint/static/js/runtime-main.a8835caa.js.map",
+    "static/js/2.3435ffc6.chunk.js": "/willitmint/static/js/2.3435ffc6.chunk.js",
+    "static/js/2.3435ffc6.chunk.js.map": "/willitmint/static/js/2.3435ffc6.chunk.js.map",
+    "static/js/3.de9aab16.chunk.js": "/willitmint/static/js/3.de9aab16.chunk.js",
+    "static/js/3.de9aab16.chunk.js.map": "/willitmint/static/js/3.de9aab16.chunk.js.map",
+    "index.html": "/willitmint/index.html",
+    "static/css/main.f87e72eb.chunk.css.map": "/willitmint/static/css/main.f87e72eb.chunk.css.map",
+    "static/js/2.3435ffc6.chunk.js.LICENSE.txt": "/willitmint/static/js/2.3435ffc6.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/willitmint/static/media/1.75f03515.png",
+    "static/media/reset.css": "/willitmint/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8835caa.js",
+    "static/js/2.3435ffc6.chunk.js",
+    "static/css/main.f87e72eb.chunk.css",
+    "static/js/main.ea381a11.chunk.js"
+  ]
+}
